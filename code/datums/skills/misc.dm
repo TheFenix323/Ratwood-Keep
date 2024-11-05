@@ -33,3 +33,6 @@
 
 /datum/skill/misc/sewing
 	name = "Sewing"
+
+/datum/skill/misc/ceramics
+	name = "Pottery"
