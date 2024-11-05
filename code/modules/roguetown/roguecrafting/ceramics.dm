@@ -59,7 +59,7 @@
 
 /datum/crafting_recipe/roguetown/ceramics/glassRaw
 	name = "glass clay"			// This is not a clay, but I don't personally think 'batch' is fitting ICly.
-	tools = list(/obj/item/reagent_containers/glass/mortar, /obj/item/pestle)
+	tools = list(/obj/item/reagent_containers/glass/mortar)
 	result = list(/obj/item/natural/clay/glassBatch)
 	reqs = list(/obj/item/natural/clay = 2, /obj/item/ash = 2, /obj/item/natural/stone = 1)
 	craftdiff = 4 // Knowing how to mix glass is not a trivial knowledge.
